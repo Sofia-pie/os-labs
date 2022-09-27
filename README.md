@@ -4,10 +4,17 @@
 
 ![](./lab2/Picture5.png)
 ![](./lab2/Picture6.png)
+
 2. Зробити `git init` папки із файлом  hello.txt та bash скриптом.
+
 ![](./lab2/Picture7.png)
+
 3. Зробити `git commit`.
+
 ![](./lab2/Picture8.png)
+
 4. Зробити `git push` у віддалений репозиторій у вітку lab_works_one_two.
+
 ![](./lab2/Picture9.png)
+
 5. Додати в папку Readme файл із звітом до лабораторної, щоб його можна було передивлятись на репозиторію коли переходиш у вітку.
