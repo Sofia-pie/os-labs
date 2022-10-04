@@ -10,9 +10,13 @@
 ![](./lab2/Picture7.png)
 
 3. Зробити `git commit`.
+<<<<<<< HEAD
 
 ![](./lab2/Picture8.png)
 
+=======
+ ![](./lab2/Picture8.png)
+>>>>>>> e3715e7 (initial commit)
 4. Зробити `git push` у віддалений репозиторій у вітку lab_works_one_two.
 
 ![](./lab2/Picture9.png)
